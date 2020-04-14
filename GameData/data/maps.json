@@ -271,7 +271,8 @@
             "textures" : "kid",
             "position" : [ 25, 21 ],
             "dialog" : ["kid"],
-            "side" : 1,
+            "facing" : 1,
+            "passable" : false,
             "trigger" : 0
         },
         {
@@ -280,7 +281,8 @@
             "textures" : "fisherman",
             "position" : [ 16, 16 ],
             "dialog" : ["fe.fisherman"],
-            "side" : 2
+            "facing" : 2,
+            "passable" : false
         }
     ]
 },
@@ -409,7 +411,8 @@
              "textures" : "playermom",
              "position" : [ 9, 9 ],
              "dialog" : ["playermom.dialog"],
-             "side" : 0
+             "facing" : 0,
+             "passable" : false
          }
      ]
  },
@@ -508,7 +511,8 @@
              "textures" : "kiwai",
              "position" : [ 15, 4 ],
              "dialog" : ["prof.dialog"],
-             "side" : 0
+             "facing" : 0,
+             "passable" : false
          }
      ]
  },
@@ -866,14 +870,16 @@
              "textures" : "sk",
              "position" : [ 16, 39 ],
              "dialog" : ["rt14.sk"],
-             "side" : 2
+             "facing" : 2,
+             "passable" : false
          },
          {
              "type" : "TalkingCharacter",
              "textures" : "albd",
              "position" : [ 69, 38 ],
              "dialog" : ["rt14.albd"],
-             "side" : 0
+             "facing" : 0,
+             "passable" : false
          },
          {
              "type" : "Trainer",
@@ -882,7 +888,8 @@
 	             "textures" : "beta",
 	             "position" : [11, 32],
 	             "dialog" : ["rt14.beta.pre"],
-	             "side" : 2
+	             "facing" : 2,
+	             "passable" : false
              },
 	         "battle" : {
 	             "type" : "Battle",
@@ -895,7 +902,8 @@
              	"textures" : "beta",
              	"position" : [11,32],
              	"dialog" : ["rt14.beta.post"],
-             	"side" : 2
+             	"facing" : 2,
+             	"passable" : false
              }
          },
          {
@@ -1582,7 +1590,8 @@
              "textures" : "inferm",
              "position" : [ 9, 10 ],
              "dialog" : ["inferm.dialog"],
-             "side" : 0
+             "facing" : 0,
+             "passable" : false
          },
          {
              "type" : "Dialog",

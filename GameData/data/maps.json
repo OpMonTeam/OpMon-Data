@@ -190,6 +190,8 @@
             "type" : "Door",
             "textures" : "door",
             "playID" : "door",
+            "trigger" : 1,
+            "framerate" : 1,
             "position" : [ 27, 16 ],
             "tp" : {
                 "position" : [ 8, 15 ],
@@ -200,6 +202,8 @@
             "type" : "Door",
             "textures" : "door",
             "playID" : "door",
+            "trigger" : 1,
+            "framerate" : 1,
             "position" : [ 35, 16 ],
             "tp" : {
                 "position" : [ 9, 15 ],
@@ -210,6 +214,8 @@
             "type" : "Door",
             "textures" : "shop door",
             "playID" : "shop door",
+            "trigger" : 1,
+            "framerate" : 1,
             "position" : [ 27, 28 ],
             "tp" : {
                 "position" : [ 16, 15 ],
@@ -345,7 +351,7 @@
          {
              "type" : "TP",
              "textures" : "alpha",
-             "trigger" : 3,
+             "trigger" : 1,
              "position" : [ 7, 15 ],
              "tp" : {
                  "position" : [ 28, 17 ],
@@ -357,7 +363,7 @@
          {
              "type" : "TP",
              "textures" : "alpha",
-             "trigger" : 3,
+             "trigger" : 1,
              "position" : [ 15, 2 ],
              "tp" : {
                  "position" : [ 9, 7 ],
@@ -369,7 +375,7 @@
          {
              "type" : "TP",
              "textures" : "alpha",
-             "trigger" : 3,
+             "trigger" : 1,
              "position" : [ 0, 11 ],
              "tp" : {
                  "position" : [ 6, 3 ],
@@ -661,7 +667,7 @@
          {
              "type" : "TP",
              "textures" : "alpha",
-             "trigger" : 3,
+             "trigger" : 1,
              "position" : [ 8, 7 ],
              "tp" : {
                  "position" : [ 16, 2 ],

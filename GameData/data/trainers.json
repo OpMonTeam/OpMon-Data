@@ -5,7 +5,7 @@
             "nickname" : "",
             "species" : 1,
             "level" : 5,
-            "attacks" : [
+            "moves" : [
                 "Tackle",
                 "Mist",
                 "null",

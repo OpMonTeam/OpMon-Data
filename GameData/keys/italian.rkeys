@@ -92,12 +92,12 @@ key.gamemenu.opdex=OpDex
 key.gamemenu.settings=Opzioni
 
 
-key.battle.attack=Attacco
+key.battle.move=Attacco
 key.battle.bag=Zaino
 key.battle.run=Fuga
 key.battle.opmon=OpMon
 
-key.battle.dialog.attack=~ usa ~!
+key.battle.dialog.move=~ usa ~!
 key.battle.dialog.miss=~ fallisce l'attacco!
 key.battle.dialog.loosehp=~ perde ~ PS.
 
@@ -105,21 +105,21 @@ key.battle.wait=Cosa vuoi fare?
 
 key.battle.status.frozen.out=~ non è più congelato!
 key.battle.status.frozen.in=~ è congelato!
-key.battle.status.frozen.attack=~ è congelato e non può attaccare!
+key.battle.status.frozen.move=~ è congelato e non può attaccare!
 
 key.battle.status.sleep.out=~ si è svegliato!
 key.battle.status.sleep.in=~ si è addormentato!
-key.battle.status.sleep.attack=~ dorme profondamente.
+key.battle.status.sleep.move=~ dorme profondamente.
 
 key.battle.status.paralysed.out=~ non è più paralizzato!
 key.battle.status.paralysed.in=~ è paralizzato!
-key.battle.status.paralysed.attack.success=Nonostante la paralisi, ~ riesce ad attaccare!
-key.battle.status.paralysed.attack.fail=~ è paralizzato!
+key.battle.status.paralysed.move.success=Nonostante la paralisi, ~ riesce ad attaccare!
+key.battle.status.paralysed.move.fail=~ è paralizzato!
 
 key.battle.status.confused.out=~ non è più confuso!
 key.battle.status.confused.in=~ è confuso!
-key.battle.status.confused.attack.success=Nonostante la confusione, ~ riesce ad attaccare!
-key.battle.status.confused.attack.fail=~ è confuso.
+key.battle.status.confused.move.success=Nonostante la confusione, ~ riesce ad attaccare!
+key.battle.status.confused.move.fail=~ è confuso.
 key.battle.status.confused.hplost=Nella confusione, ~ perde ~ PS.
 
 key.battle.status.afraid=~ è troppo spaventato per attaccare!
@@ -337,9 +337,9 @@ key.opmon.desc.49=WIP
 key.opmon.desc.50=WIP
 key.opmon.desc.51=WIP
 
-key.attacks.Mist.name=Nebbia
-key.attacks.Tackle.name=Azione
-key.attacks.Growl.name=Ruggito
+key.moves.Mist.name=Nebbia
+key.moves.Tackle.name=Azione
+key.moves.Growl.name=Ruggito
 
 key.items.hcandy.name=Caramella curatrice
 

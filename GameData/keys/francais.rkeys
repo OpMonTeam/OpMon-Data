@@ -90,12 +90,12 @@ key.gamemenu.opdex=OpDex
 key.gamemenu.settings=Options
 
 
-key.battle.attack=Attaque
+key.battle.move=Attaque
 key.battle.bag=Sac
 key.battle.run=Fuite
 key.battle.opmon=OpMons
 
-key.battle.dialog.attack=~ utilise ~ !
+key.battle.dialog.move=~ utilise ~ !
 key.battle.dialog.miss=~ rate son attaque !
 key.battle.dialog.loosehp=~ perd ~ pv.
 
@@ -103,21 +103,21 @@ key.battle.wait=Que voulez vous faire ?
 
 key.battle.status.frozen.out=~ n'est plus gelé!
 key.battle.status.frozen.in=~ est gelé!
-key.battle.status.frozen.attack=~ est gelé et ne peut pas attaquer!
+key.battle.status.frozen.move=~ est gelé et ne peut pas attaquer!
 
 key.battle.status.sleep.out=~ se réveille!
 key.battle.status.sleep.in=~ s'endort profondément!
-key.battle.status.sleep.attack=~ dort profondément.
+key.battle.status.sleep.move=~ dort profondément.
 
 key.battle.status.paralysed.out=~ n'est plus paralysé!
 key.battle.status.paralysed.in=~ est paralysé!
-key.battle.status.paralysed.attack.success=Malgré sa paralysie, ~ réussit à attaquer!
-key.battle.status.paralysed.attack.fail=~ est paralysé !
+key.battle.status.paralysed.move.success=Malgré sa paralysie, ~ réussit à attaquer!
+key.battle.status.paralysed.move.fail=~ est paralysé !
 
 key.battle.status.confused.out=~ n'est plus confus!
 key.battle.status.confused.in=~ devient confus!
-key.battle.status.confused.attack.success=Malgré sa confusion, ~ parvient à attaquer!
-key.battle.status.confused.attack.fail=~ est confus.
+key.battle.status.confused.move.success=Malgré sa confusion, ~ parvient à attaquer!
+key.battle.status.confused.move.fail=~ est confus.
 key.battle.status.confused.hplost=Dans sa confiusion, ~ perd ~ pv.
 
 key.battle.status.afraid=~ est trop effrayé pour attaquer!
@@ -335,9 +335,9 @@ key.opmon.desc.49=WIP
 key.opmon.desc.50=WIP
 key.opmon.desc.51=WIP
 
-key.attacks.Mist.name=Brume
-key.attacks.Tackle.name=Charge
-key.attacks.Growl.name=Rugissement
+key.moves.Mist.name=Brume
+key.moves.Tackle.name=Charge
+key.moves.Growl.name=Rugissement
 
 key.items.hcandy.name=Bonbon de soin
 

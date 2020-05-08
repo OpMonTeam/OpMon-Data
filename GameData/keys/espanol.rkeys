@@ -93,39 +93,39 @@ key.gamemenu.opmons=OpMons
 key.gamemenu.opdex=OpDex
 key.gamemenu.settings=Ajustes
 
-key.battle.attack=Ataques
+key.battle.move=Ataques
 key.battle.bag=Mochila
 key.battle.run=Corre
 key.battle.opmon=OpMons
 
-key.battle.dialog.attack=~ usa ~ !
-key.battle.dialog.miss=~ fails the attack !
+key.battle.dialog.move=~ usa ~ !
+key.battle.dialog.miss=~ fails the move !
 key.battle.dialog.loosehp=~ perdiá ~ hp.
 
 key.battle.wait=Qué haces?
 
 key.battle.status.frozen.out=~ ya no esta congelado!
 key.battle.status.frozen.in=~ esta congelado!
-key.battle.status.frozen.attack=~ esta congelado y no puedo atacar!
+key.battle.status.frozen.move=~ esta congelado y no puedo atacar!
 
 key.battle.status.sleep.out=~ despierta!
 key.battle.status.sleep.in=~ se esta quedando dormido!
-key.battle.status.sleep.attack=~ duerme profundamente.
+key.battle.status.sleep.move=~ duerme profundamente.
 
 key.battle.status.paralysed.out=~ ya no esta paralizado!
 key.battle.status.paralysed.in=~ esta paralizado!
-key.battle.status.paralysed.attack.success.1=Incluso paralizado,
-key.battle.status.paralysed.attack.success.2=~ se las arregla para atacar!
-key.battle.status.paralysed.attack.fail=~ esta paralizado y no puede atacar!
+key.battle.status.paralysed.move.success.1=Incluso paralizado,
+key.battle.status.paralysed.move.success.2=~ se las arregla para atacar!
+key.battle.status.paralysed.move.fail=~ esta paralizado y no puede atacar!
 
 key.battle.status.confused.out=~ ya no esta confundido!
 key.battle.status.confused.in=~ se esta confundiendo!
-key.battle.status.confused.attack.success.1=Incluso confundido, ~
-key.battle.status.confused.attack.success.2=se las arregla para atacar!
-key.battle.status.confused.attack.fail=~ esta confundido.
+key.battle.status.confused.move.success.1=Incluso confundido, ~
+key.battle.status.confused.move.success.2=se las arregla para atacar!
+key.battle.status.confused.move.fail=~ esta confundido.
 key.battle.status.confused.hplost=~ perdiá ~ hp.
 
-key.battle.status.afraid=~ is too afraid to attack !
+key.battle.status.afraid=~ is too afraid to move !
 
 key.battle.effectiveness.none=But it failed !
 key.battle.effectiveness.almostnone=It's almost ineffective...
@@ -341,9 +341,9 @@ key.opmon.desc.49=WIP
 key.opmon.desc.50=WIP
 key.opmon.desc.51=WIP
 
-key.attacks.Mist.name=Mist
-key.attacks.Tackle.name=Tackle
-key.attacks.Growl.name=Growl
+key.moves.Mist.name=Mist
+key.moves.Tackle.name=Tackle
+key.moves.Growl.name=Growl
 
 key.items.hcandy.name=Healing Candy
 

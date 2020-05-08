@@ -92,13 +92,13 @@ key.inferm.dialog=Willkommen ! Möchtest du deine OpMons heilen ?$...$Aber ? Du 
 key.rt14.beta.pre=Hallo ! Ich bin Beta. Ich bin der NPC, der es erlaubt zu testen die neuen Funktionen zu testen, die nicht vollständig implementiert sind.|Ich kann einen OpMon-Kampf gegen dich machen, wenn du willst.|Lass uns gehen !
 key.rt14.beta.post=Was it good ? If you want to do it again relauch the game with M !
 
-key.battle.attack=Attacke
+key.battle.move=Attacke
 key.battle.bag=Tasche
 key.battle.run=Rennen
 key.battle.opmon=OpMons
 
-key.battle.dialog.attack=~ benutze ~ !
-key.battle.dialog.miss=~ fails the attack !
+key.battle.dialog.move=~ benutze ~ !
+key.battle.dialog.miss=~ fails the move !
 key.battle.dialog.loosehp=~ verliert ~ hp.
 
 
@@ -106,26 +106,26 @@ key.battle.wait=Was tun?
 
 key.battle.status.frozen.out=~ ist nicht mehr erstarrt!
 key.battle.status.frozen.in=~ ist erstarrt!
-key.battle.status.frozen.attack=~ ist erstarrt und kann nicht angreifen !
+key.battle.status.frozen.move=~ ist erstarrt und kann nicht angreifen !
 
 key.battle.status.sleep.out=~ ist aufgewacht!
 key.battle.status.sleep.in=~ fällt in einen tiefen Schlaf!
-key.battle.status.sleep.attack=~ schläft tief.
+key.battle.status.sleep.move=~ schläft tief.
 
 key.battle.status.paralysed.out=~ ist nicht mehr gelähmt!
 key.battle.status.paralysed.in=~ ist gelähmt!
-key.battle.status.paralysed.attack.success.1=Trotz der lähmung,
-key.battle.status.paralysed.attack.success.2=schafft ~ es anzugreifen!
-key.battle.status.paralysed.attack.fail=~ ist gelähmt und kann nicht angreifen!
+key.battle.status.paralysed.move.success.1=Trotz der lähmung,
+key.battle.status.paralysed.move.success.2=schafft ~ es anzugreifen!
+key.battle.status.paralysed.move.fail=~ ist gelähmt und kann nicht angreifen!
 
 key.battle.status.confused.out=~ ist nicht mehr verwirrt!
 key.battle.status.confused.in=~ ist verwirrt!
-key.battle.status.confused.attack.success.1=Trotz der Verwirrung,
-key.battle.status.confused.attack.success.2=greift ~ an!
-key.battle.status.confused.attack.fail=~ ist verwirrt.
+key.battle.status.confused.move.success.1=Trotz der Verwirrung,
+key.battle.status.confused.move.success.2=greift ~ an!
+key.battle.status.confused.move.fail=~ ist verwirrt.
 key.battle.status.confused.hplost=~ verliert ~ hp.
 
-key.battle.status.afraid=~ is too afraid to attack !
+key.battle.status.afraid=~ is too afraid to move !
 
 key.battle.effectiveness.none=But it failed !
 key.battle.effectiveness.almostnone=It's almost ineffective...
@@ -341,9 +341,9 @@ key.opmon.desc.49=WIP
 key.opmon.desc.50=WIP
 key.opmon.desc.51=WIP
 
-key.attacks.Mist.name=Mist
-key.attacks.Tackle.name=Tackle
-key.attacks.Growl.name=Growl
+key.moves.Mist.name=Mist
+key.moves.Tackle.name=Tackle
+key.moves.Growl.name=Growl
 
 key.items.hcandy.name=Healing Candy
 

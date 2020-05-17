@@ -195,30 +195,22 @@
              "passable" : false
          },
          {
-             "type" : "Trainer",
-             "prebattle" : {
-	             "type" : "TalkingCharacter",
-	             "textures" : "beta",
-	             "position" : [11, 32],
-	             "dialog" : ["rt14.beta.pre"],
-	             "facing" : 2,
-	             "passable" : false
-             },
-	         "battle" : {
-	             "type" : "Battle",
-	             "textures" : "beta",
-	             "position" : [11,32],
-				 "trainer" : "Beta"
-             },
-             "postbattle" : {
-             	"type" : "TalkingCharacter",
-             	"textures" : "beta",
-             	"position" : [11,32],
-             	"dialog" : ["rt14.beta.post"],
-             	"facing" : 2,
-             	"passable" : false
-             }
-         },
+		    "type":"Trainer",
+		    "prebattle":{
+		        "textures":"beta",
+		        "position":[11,32],
+		        "dialog":["rt14.beta.pre"],
+		        "facing":2,
+		        "passable":false,
+		        "trainer":"Beta"
+		    },
+		    "postbattle":{
+		        "textures":"beta",
+		        "dialog":["rt14.beta.post"],
+		        "facing":2,
+		        "passable":false
+		    }
+		 },
          {
              "type" : "Dialog",
              "textures" : "alpha",

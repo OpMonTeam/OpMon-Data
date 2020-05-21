@@ -143,5 +143,65 @@
 				0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 		]
 	}
+],
+"musics" : [
+	{
+		"id" : "Title",
+		"path" : "audio/music/title.ogg"
+	},
+	{
+		"id" : "Start",
+		"path" : "audio/music/intro.ogg"
+	},
+	{
+		"id" : "Fauxbourg",
+		"path" : "audio/music/faubourgeuvi.ogg"
+	},
+	{
+		"id" : "Road 14",
+		"path" : "audio/music/route14.ogg"
+	},
+	{
+		"id" : "Ms",
+		"path" : "audio/music/mysterioucity.ogg"
+	},
+	{
+		"id" : "Labo",
+		"path" : "audio/music/labo.ogg"
+	},
+	{
+		"id" : "Wild Battle",
+		"path" : "audio/music/wildbattle.ogg"
+	}
+],
+"sounds" : [
+	{
+		"id" : "door",
+		"path" : "audio/sounds/door.ogg"
+	},
+	{
+		"id" : "shop door",
+		"path" : "audio/sounds/shopdoor.ogg"
+	},
+	{
+		"id" : "dialog pass",
+		"path" : "audio/sounds/dialogChange.ogg"
+	},
+	{
+		"id" : "nope",
+		"path" : "audio/sounds/nope.ogg"
+	},
+	{
+		"id" : "arrow",
+		"path" : "audio/sounds/select.ogg"
+	},
+	{
+		"id" : "push",
+		"path" : "audio/sounds/selectbuttons.ogg"
+	},
+	{
+		"id" : "hit",
+		"path" : "audio/sounds/hit.ogg"
+	}
 ]
 }

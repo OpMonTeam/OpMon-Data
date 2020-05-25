@@ -2,60 +2,47 @@
 "events" : [
 	{
 		"id" : "kid",
-		"path" : "sprites/chara/kid/kid%d.png",
-		"texturesnb" : 12
+		"path" : "sprites/chara/kid.png"
 	},
 	{
 		"id" : "fisherman",
-		"path" : "sprites/chara/fisherman/fisherman%d.png",
-		"texturesnb" : 12
+		"path" : "sprites/chara/fisherman.png"
 	},
 	{
 		"id" : "kiwai",
-		"path" : "sprites/chara/prof/prof%d.png",
-		"texturesnb" : 12
+		"path" : "sprites/chara/prof/prof.png"
 	},
 	{
 		"id" : "playermom",
-		"path" : "sprites/chara/mom/mom%d.png",
-		"texturesnb" : 12
+		"path" : "sprites/chara/mom.png"
 	},
 	{
 		"id" : "sk",
-		"path" : "sprites/chara/rival/sk%d.png",
-		"texturesnb" : 12
+		"path" : "sprites/chara/rival.png"
 	},
 	{
 		"id" : "inferm",
-		"path" : "sprites/chara/inferm/inferm%d.png",
-		"texturesnb" : 12
+		"path" : "sprites/chara/inferm.png"
 	},
 	{
 		"id" : "|_| -|- |-| |= |_| N",
-		"path" : "sprites/chara/beta/alphabeta/otheon%d.png",
-		"texturesnb" : 12
+		"path" : "sprites/chara/beta/alphabeta/otheon.png"
 	},
 	{
 		"id" : "beta",
-		"path" : "sprites/chara/beta/beta%d.png",
-		"texturesnb" : 12
+		"path" : "sprites/chara/beta/beta.png"
 	},
 	{
 		"id" : "albd",
-		"path" : "sprites/chara/albd/albd%d.png",
-		"texturesnb" : 12
+		"path" : "sprites/chara/albd.png"
 	},
 	{
 		"id" : "shop door",
-		"path" : "animations/shopdoor/shop_door%d.png",
-		"texturesnb" : 4,
-		"offset" : 1
+		"path" : "animations/doors/shop_door.png"
 	},
 	{
 		"id" : "door",
-		"path" : "animations/basicdoor/basic_door%d.png",
-		"texturesnb" : 4,
-		"offset" : 1
+		"path" : "animations/doors/basic_door.png"
 	}
 ],
 "elements" : [

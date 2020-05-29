@@ -223,7 +223,7 @@
              "trigger" : 3,
              "position" : [ 15, 12 ],
              "tp" : {
-                 "position" : [ 10, 17 ],
+                 "position" : [ 9, 17 ],
                  "map" : "OpCenter",
                  "side" : 1
              },

@@ -82,7 +82,7 @@
              "trigger" : 3,
              "position" : [ 9, 17 ],
              "tp" : {
-                 "position" : [ 16, 13 ],
+                 "position" : [ 15, 13 ],
                  "map" : "MysteriouCity",
                  "side" : 0
              },
@@ -94,7 +94,7 @@
              "trigger" : 3,
              "position" : [ 8, 17 ],
              "tp" : {
-                 "position" : [ 16, 13 ],
+                 "position" : [ 15, 13 ],
                  "map" : "MysteriouCity",
                  "side" : 0
              },

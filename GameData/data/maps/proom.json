@@ -37,7 +37,7 @@
              "trigger" : 1,
              "position" : [ 8, 7 ],
              "tp" : {
-                 "position" : [ 16, 2 ],
+                 "position" : [ 15, 2 ],
                  "map" : "Player's home",
                  "side" : 1
              },

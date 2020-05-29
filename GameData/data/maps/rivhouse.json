@@ -61,7 +61,7 @@
              "trigger" : 3,
              "position" : [ 8, 15 ],
              "tp" : {
-                 "position" : [ 36, 17 ],
+                 "position" : [ 35, 17 ],
                  "map" : "Fauxbourg Euvi",
                  "side" : 0
              },

@@ -61,7 +61,7 @@
              "trigger" : 1,
              "position" : [ 7, 15 ],
              "tp" : {
-                 "position" : [ 28, 17 ],
+                 "position" : [ 27, 17 ],
                  "map" : "Fauxbourg Euvi",
                  "side" : 0
              },
@@ -73,7 +73,7 @@
              "trigger" : 1,
              "position" : [ 15, 2 ],
              "tp" : {
-                 "position" : [ 9, 7 ],
+                 "position" : [ 8, 7 ],
                  "map" : "Player's room",
                  "side" : 2
              },
@@ -85,7 +85,7 @@
              "trigger" : 1,
              "position" : [ 0, 11 ],
              "tp" : {
-                 "position" : [ 6, 3 ],
+                 "position" : [ 5, 3 ],
                  "map" : "Mom's room",
                  "side" : 2
              },

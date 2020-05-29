@@ -29,7 +29,7 @@
              "type" : "TP",
              "textures" : "alpha",
              "trigger" : 3,
-             "position" : [ 5, 3 ],
+             "position" : [ 4, 3 ],
              "tp" : {
                  "position" : [ 1, 11 ],
                  "map" : "Player's home",

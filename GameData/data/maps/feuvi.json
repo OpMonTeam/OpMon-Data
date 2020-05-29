@@ -195,7 +195,7 @@
             "framerate" : 1,
             "position" : [ 27, 16 ],
             "tp" : {
-                "position" : [ 8, 15 ],
+                "position" : [ 7, 15 ],
                 "map" : "Player's home"
             }
         },
@@ -207,7 +207,7 @@
             "framerate" : 1,
             "position" : [ 35, 16 ],
             "tp" : {
-                "position" : [ 9, 15 ],
+                "position" : [ 8, 15 ],
                 "map" : "Rival's house"
             }
         },
@@ -219,7 +219,7 @@
             "framerate" : 1,
             "position" : [ 27, 28 ],
             "tp" : {
-                "position" : [ 16, 15 ],
+                "position" : [ 15, 15 ],
                 "map" : "Laboratory"
             }
         },
@@ -229,7 +229,7 @@
             "trigger" : 3,
             "position" : [ 39, 17 ],
             "tp" : {
-                "position" : [ 4, 38 ],
+                "position" : [ 2, 38 ],
                 "map" : "Road 14",
                 "side" : 1
             },
@@ -241,7 +241,7 @@
             "trigger" : 3,
             "position" : [ 39, 18 ],
             "tp" : {
-                "position" : [ 4, 39 ],
+                "position" : [ 2, 39 ],
                 "map" : "Road 14",
                 "side" : 1
             },
@@ -253,7 +253,7 @@
             "trigger" : 3,
             "position" : [ 39, 19 ],
             "tp" : {
-                "position" : [ 4, 40 ],
+                "position" : [ 2, 40 ],
                 "map" : "Road 14",
                 "side" : 1
             },
@@ -265,7 +265,7 @@
             "trigger" : 3,
             "position" : [ 39, 20 ],
             "tp" : {
-                "position" : [ 4, 41 ],
+                "position" : [ 2, 41 ],
                 "map" : "Road 14",
                 "side" : 1
             },

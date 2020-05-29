@@ -225,7 +225,7 @@
              "trigger" : 3,
              "position" : [ 4, 38 ],
              "tp" : {
-                 "position" : [ 39, 17 ],
+                 "position" : [ 38, 17 ],
                  "map" : "Fauxbourg Euvi",
                  "side" : 2
              },
@@ -237,7 +237,7 @@
              "trigger" : 3,
              "position" : [ 4, 39 ],
              "tp" : {
-                 "position" : [ 39, 18 ],
+                 "position" : [ 38, 18 ],
                  "map" : "Fauxbourg Euvi",
                  "side" : 2
              },
@@ -249,7 +249,7 @@
              "trigger" : 3,
              "position" : [ 4, 40 ],
              "tp" : {
-                 "position" : [ 39, 19 ],
+                 "position" : [ 38, 19 ],
                  "map" : "Fauxbourg Euvi",
                  "side" : 2
              },
@@ -261,7 +261,7 @@
              "trigger" : 3,
              "position" : [ 4, 41 ],
              "tp" : {
-                 "position" : [ 39, 20 ],
+                 "position" : [ 38, 20 ],
                  "map" : "Fauxbourg Euvi",
                  "side" : 2
              },
@@ -273,7 +273,7 @@
              "trigger" : 3,
              "position" : [ 77, 40 ],
              "tp" : {
-                 "position" : [ 3, 41 ],
+                 "position" : [ 2, 41 ],
                  "map" : "EuviCity",
                  "side" : 1
              },
@@ -285,7 +285,7 @@
              "trigger" : 3,
              "position" : [ 77, 41 ],
              "tp" : {
-                 "position" : [ 3, 42 ],
+                 "position" : [ 2, 42 ],
                  "map" : "EuviCity",
                  "side" : 1
              },
@@ -297,7 +297,7 @@
              "trigger" : 3,
              "position" : [ 77, 42 ],
              "tp" : {
-                 "position" : [ 3, 43 ],
+                 "position" : [ 2, 43 ],
                  "map" : "EuviCity",
                  "side" : 1
              },
@@ -309,7 +309,7 @@
              "trigger" : 3,
              "position" : [ 77, 43 ],
              "tp" : {
-                 "position" : [ 3, 44 ],
+                 "position" : [ 2, 44 ],
                  "map" : "EuviCity",
                  "side" : 1
              },
@@ -321,7 +321,7 @@
              "trigger" : 3,
              "position" : [ 77, 44 ],
              "tp" : {
-                 "position" : [ 3, 45 ],
+                 "position" : [ 2, 45 ],
                  "map" : "EuviCity",
                  "side" : 1
              },

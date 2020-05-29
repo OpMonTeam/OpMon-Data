@@ -202,7 +202,7 @@
              "trigger" : 3,
              "position" : [ 1, 41 ],
              "tp" : {
-                 "position" : [ 77, 40 ],
+                 "position" : [ 76, 40 ],
                  "map" : "Road 14",
                  "side" : 2
              },
@@ -221,7 +221,7 @@
              "trigger" : 3,
              "position" : [ 1, 42 ],
              "tp" : {
-                 "position" : [ 77, 41 ],
+                 "position" : [ 76, 41 ],
                  "map" : "Road 14",
                  "side" : 2
              },
@@ -233,7 +233,7 @@
              "trigger" : 3,
              "position" : [ 1, 43 ],
              "tp" : {
-                 "position" : [ 77, 42 ],
+                 "position" : [ 76, 42 ],
                  "map" : "Road 14",
                  "side" : 2
              },
@@ -245,7 +245,7 @@
              "trigger" : 3,
              "position" : [ 1, 44 ],
              "tp" : {
-                 "position" : [ 77, 43 ],
+                 "position" : [ 76, 43 ],
                  "map" : "Road 14",
                  "side" : 2
              },
@@ -257,7 +257,7 @@
              "trigger" : 3,
              "position" : [ 1, 45 ],
              "tp" : {
-                 "position" : [ 77, 44 ],
+                 "position" : [ 76, 44 ],
                  "map" : "Road 14",
                  "side" : 2
              },

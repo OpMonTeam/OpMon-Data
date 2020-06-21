@@ -84,7 +84,7 @@
              "position" : [ 15, 15 ],
              "tp" : {
                  "position" : [ 27, 29 ],
-                 "map" : "Fauxbourg Euvi",
+                 "map" : "fauxbourg_euvi",
                  "side" : 0
              },
              "side" : 2

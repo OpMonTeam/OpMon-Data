@@ -208,7 +208,7 @@
             "position" : [ 35, 16 ],
             "tp" : {
                 "position" : [ 8, 15 ],
-                "map" : "Rival's house"
+                "map" : "rival_house"
             }
         },
         {

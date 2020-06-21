@@ -86,7 +86,7 @@
              "position" : [ 0, 11 ],
              "tp" : {
                  "position" : [ 5, 3 ],
-                 "map" : "Mom's room",
+                 "map" : "mom_room",
                  "side" : 2
              },
              "side" : 16

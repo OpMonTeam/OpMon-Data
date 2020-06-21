@@ -83,7 +83,7 @@
              "position" : [ 9, 17 ],
              "tp" : {
                  "position" : [ 15, 13 ],
-                 "map" : "MysteriouCity",
+                 "map" : "mysteriou_city",
                  "side" : 0
              },
              "side" : 2
@@ -95,7 +95,7 @@
              "position" : [ 8, 17 ],
              "tp" : {
                  "position" : [ 15, 13 ],
-                 "map" : "MysteriouCity",
+                 "map" : "mysteriou_city",
                  "side" : 0
              },
              "side" : 2

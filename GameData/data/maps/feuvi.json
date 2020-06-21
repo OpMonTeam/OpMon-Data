@@ -196,7 +196,7 @@
             "position" : [ 27, 16 ],
             "tp" : {
                 "position" : [ 7, 15 ],
-                "map" : "Player's home"
+                "map" : "player_home"
             }
         },
         {

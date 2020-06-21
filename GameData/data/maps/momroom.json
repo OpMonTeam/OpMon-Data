@@ -32,7 +32,7 @@
              "position" : [ 4, 3 ],
              "tp" : {
                  "position" : [ 1, 11 ],
-                 "map" : "Player's home",
+                 "map" : "player_home",
                  "side" : 1
              },
              "side" : 32

@@ -274,7 +274,7 @@
              "position" : [ 77, 40 ],
              "tp" : {
                  "position" : [ 2, 41 ],
-                 "map" : "EuviCity",
+                 "map" : "euvicity",
                  "side" : 1
              },
              "side" : 32
@@ -286,7 +286,7 @@
              "position" : [ 77, 41 ],
              "tp" : {
                  "position" : [ 2, 42 ],
-                 "map" : "EuviCity",
+                 "map" : "euvicity",
                  "side" : 1
              },
              "side" : 32
@@ -298,7 +298,7 @@
              "position" : [ 77, 42 ],
              "tp" : {
                  "position" : [ 2, 43 ],
-                 "map" : "EuviCity",
+                 "map" : "euvicity",
                  "side" : 1
              },
              "side" : 32
@@ -310,7 +310,7 @@
              "position" : [ 77, 43 ],
              "tp" : {
                  "position" : [ 2, 44 ],
-                 "map" : "EuviCity",
+                 "map" : "euvicity",
                  "side" : 1
              },
              "side" : 32
@@ -322,7 +322,7 @@
              "position" : [ 77, 44 ],
              "tp" : {
                  "position" : [ 2, 45 ],
-                 "map" : "EuviCity",
+                 "map" : "euvicity",
                  "side" : 1
              },
              "side" : 32

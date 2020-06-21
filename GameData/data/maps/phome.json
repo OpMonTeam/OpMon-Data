@@ -74,7 +74,7 @@
              "position" : [ 15, 2 ],
              "tp" : {
                  "position" : [ 8, 7 ],
-                 "map" : "Player's room",
+                 "map" : "player_room",
                  "side" : 2
              },
              "side" : 32

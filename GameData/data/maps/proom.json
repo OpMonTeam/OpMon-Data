@@ -1,5 +1,5 @@
 {
-     "id" : "Player's room",
+     "id" : "player_room",
      "tileset" : "alpha",
      "layers" : [
          [ 0, 0, 0, 793, 794, 795, 0, 0, 0,

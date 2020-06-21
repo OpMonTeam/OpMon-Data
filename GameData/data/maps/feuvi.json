@@ -230,7 +230,7 @@
             "position" : [ 39, 17 ],
             "tp" : {
                 "position" : [ 2, 38 ],
-                "map" : "Road 14",
+                "map" : "road_14",
                 "side" : 1
             },
             "side" : 32
@@ -242,7 +242,7 @@
             "position" : [ 39, 18 ],
             "tp" : {
                 "position" : [ 2, 39 ],
-                "map" : "Road 14",
+                "map" : "road_14",
                 "side" : 1
             },
             "side" : 32
@@ -254,7 +254,7 @@
             "position" : [ 39, 19 ],
             "tp" : {
                 "position" : [ 2, 40 ],
-                "map" : "Road 14",
+                "map" : "road_14",
                 "side" : 1
             },
             "side" : 32
@@ -266,7 +266,7 @@
             "position" : [ 39, 20 ],
             "tp" : {
                 "position" : [ 2, 41 ],
-                "map" : "Road 14",
+                "map" : "road_14",
                 "side" : 1
             },
             "side" : 32

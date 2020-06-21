@@ -224,7 +224,7 @@
              "position" : [ 15, 12 ],
              "tp" : {
                  "position" : [ 9, 17 ],
-                 "map" : "OpCenter",
+                 "map" : "op_center",
                  "side" : 1
              },
              "side" : 3

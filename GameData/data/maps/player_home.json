@@ -1,5 +1,5 @@
 {
-     "id" : "Player's home",
+     "id" : "player_home",
      "tileset" : "alpha",
      "layers" : [
          [ 910, 910, 910, 910, 910, 910, 910, 910, 910, 910, 910, 220, 910, 910, 910, 910,
@@ -62,7 +62,7 @@
              "position" : [ 7, 15 ],
              "tp" : {
                  "position" : [ 27, 17 ],
-                 "map" : "Fauxbourg Euvi",
+                 "map" : "fauxbourg_euvi",
                  "side" : 0
              },
              "side" : 2
@@ -74,7 +74,7 @@
              "position" : [ 15, 2 ],
              "tp" : {
                  "position" : [ 8, 7 ],
-                 "map" : "Player's room",
+                 "map" : "player_room",
                  "side" : 2
              },
              "side" : 32
@@ -86,7 +86,7 @@
              "position" : [ 0, 11 ],
              "tp" : {
                  "position" : [ 5, 3 ],
-                 "map" : "Mom's room",
+                 "map" : "mom_room",
                  "side" : 2
              },
              "side" : 16

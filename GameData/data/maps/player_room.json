@@ -1,5 +1,5 @@
 {
-     "id" : "Player's room",
+     "id" : "player_room",
      "tileset" : "alpha",
      "layers" : [
          [ 0, 0, 0, 793, 794, 795, 0, 0, 0,
@@ -38,7 +38,7 @@
              "position" : [ 8, 7 ],
              "tp" : {
                  "position" : [ 15, 2 ],
-                 "map" : "Player's home",
+                 "map" : "player_home",
                  "side" : 1
              },
              "side" : 32

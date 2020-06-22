@@ -1,5 +1,5 @@
 {
-     "id" : "Road 14",
+     "id" : "road_14",
      "tileset" : "alpha",
      "layers" : [
          [ 1, 1, 65, 65, 65, 65, 65, 65, 65, 65, 65, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 2, 2, 2, 66, 66, 66, 66, 66, 66, 66, 66, 2, 2, 2, 2, 65, 65, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 65, 1, 2, 2, 2, 2, 2,
@@ -176,7 +176,7 @@
      ],
      "size" : [ 86, 57 ],
      "indoor" : false,
-     "music" : "Road 14",
+     "music" : "road_14",
      "events" : [
          {
              "type" : "TalkingCharacter",
@@ -226,7 +226,7 @@
              "position" : [ 4, 38 ],
              "tp" : {
                  "position" : [ 38, 17 ],
-                 "map" : "Fauxbourg Euvi",
+                 "map" : "fauxbourg_euvi",
                  "side" : 2
              },
              "side" : 16
@@ -238,7 +238,7 @@
              "position" : [ 4, 39 ],
              "tp" : {
                  "position" : [ 38, 18 ],
-                 "map" : "Fauxbourg Euvi",
+                 "map" : "fauxbourg_euvi",
                  "side" : 2
              },
              "side" : 16
@@ -250,7 +250,7 @@
              "position" : [ 4, 40 ],
              "tp" : {
                  "position" : [ 38, 19 ],
-                 "map" : "Fauxbourg Euvi",
+                 "map" : "fauxbourg_euvi",
                  "side" : 2
              },
              "side" : 16
@@ -262,7 +262,7 @@
              "position" : [ 4, 41 ],
              "tp" : {
                  "position" : [ 38, 20 ],
-                 "map" : "Fauxbourg Euvi",
+                 "map" : "fauxbourg_euvi",
                  "side" : 2
              },
              "side" : 16
@@ -274,7 +274,7 @@
              "position" : [ 77, 40 ],
              "tp" : {
                  "position" : [ 2, 41 ],
-                 "map" : "EuviCity",
+                 "map" : "euvicity",
                  "side" : 1
              },
              "side" : 32
@@ -286,7 +286,7 @@
              "position" : [ 77, 41 ],
              "tp" : {
                  "position" : [ 2, 42 ],
-                 "map" : "EuviCity",
+                 "map" : "euvicity",
                  "side" : 1
              },
              "side" : 32
@@ -298,7 +298,7 @@
              "position" : [ 77, 42 ],
              "tp" : {
                  "position" : [ 2, 43 ],
-                 "map" : "EuviCity",
+                 "map" : "euvicity",
                  "side" : 1
              },
              "side" : 32
@@ -310,7 +310,7 @@
              "position" : [ 77, 43 ],
              "tp" : {
                  "position" : [ 2, 44 ],
-                 "map" : "EuviCity",
+                 "map" : "euvicity",
                  "side" : 1
              },
              "side" : 32
@@ -322,7 +322,7 @@
              "position" : [ 77, 44 ],
              "tp" : {
                  "position" : [ 2, 45 ],
-                 "map" : "EuviCity",
+                 "map" : "euvicity",
                  "side" : 1
              },
              "side" : 32

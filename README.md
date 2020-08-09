@@ -1,2 +1,4 @@
 # OpMon-Data
-This repository contains data for OpMon (Like beta builds for example). Issues must be posted on the original repository.
+
+This repository contains data for OpMon. Issues must be posted on the original
+repository.

@@ -1,4 +1,4 @@
-﻿# OpMon english translation
+# OpMon english translation
 # | passes a line
 # $ passes a dialog box
 key.void= 
@@ -22,9 +22,9 @@ key.options.credit.2=first
 key.options.credit.3=programmer
 key.options.credit.4=Game and 
 key.options.credit.5=Graphic designer
-key.options.credit.6=Collaborators :
+key.options.credit.6=Collaborators:
 key.options.credit.7=Aerzia, BAKfr, gberthou, Cheesecake
-key.options.credit.8=Contributors : imZERKKA, Mat, Jseutter, Stelyus
+key.options.credit.8=Contributors: imZERKKA, Mat, Jseutter, Stelyus
 key.options.credit.81=Rixem, Jo, Imperator, Léo, LinkyFR, Bircoum, louracame
 key.options.credit.82=Samurai413x, Silvermoon, Lebordelic, Asvirius, jubalh
 key.options.credit.83=torq, JonnyPtn, bobor, Qwam, CxxSpren, Ezaron, rjphares
@@ -34,10 +34,10 @@ key.options.credit.10=Cyrielle      Navet56
 key.options.cred.title=Credits
 key.options.ctrl.change=Change settings paddle
 
-key.nameEntry.desc=Type a name and press Return
+key.nameEntry.desc=Type a name and press Return.
 
-key.prof.dialog.start.1=Hello and welcome to Regimys! I hope you are fine! I am the professor Kiwaï, owner of the OpMon laboratory of Euvi-town.You are maybe wondering yourself : "What is he doing in this little town?" Here is my story.$This is where I grew up and met my first OpMon : Furnursus. It is a little fire animal cute and protective. I refused to make him evolve so he stays cute!$Sorry, I am only talking about me. So... What is your name?
-key.prof.dialog.start.2=Well, ~, I will tell you about this place and the creatures living in here. Are you ready?$This look of you...$You seem familiar with this place. Have you already been here?|Well, I suppose I will let you discover it by yourself.|See you soon!
+key.prof.dialog.start.1=Hello and welcome to Regimys! I hope you are fine! I am the professor Kiwaï, owner of the OpMon laboratory of Euvi-town.You are maybe wondering yourself, "What is he doing in this little town?" Here is my story.$This is where I grew up and met my first OpMon, Furnursus. It is a little fire animal cute and protective. I refused to make him evolve so he stays cute!$Sorry, I am only talking about me. So... What is your name?
+key.prof.dialog.start.2=Well, ~, I will tell you about this place and the creatures living in here. Are you ready?$Look at you...$You seem familiar with this place. Have you already been here?|Well, I suppose I will let you discover it by yourself.|See you soon!
 
 key.fedesc.1=Euvi Town|This little town is calm and relaxing.
 
@@ -45,7 +45,7 @@ key.ppHouse=~'s house.
 
 key.rivalHouse=Skullk's house.
 
-key.clock=It is 1:0 for a long time. |This alarm clock must be broken ...
+key.clock=It has been 1:00 PM for a long time.|This alarm clock must be broken...
 
 key.labo=Professor Kiwaï's laboratory.
 
@@ -53,11 +53,11 @@ key.weirdsign.1=Please do not get close.|4th wall under reconstruction.
 
 key.kid=I like shorts!
 
-key.prof.dialog=Hi! Did your trip go well? Skullk is currently outdoor, sorry! Come back for a future update !
+key.prof.dialog=Hi! Did your trip go well? Skullk is currently outdoors, sorry! Come back for a future update!
 
-key.pcRunLinux=This computer runs on GNU/Linux !
+key.pcRunLinux=This computer runs on GNU/Linux!
 
-key.trash=This bin is empty
+key.trash=This bin is empty.
 
 key.playerhome.fridge=Yeah, this is a fridge, captain obvious.
 
@@ -65,18 +65,18 @@ key.playerhome.tv=We can see a reality show with OpMons, but they don't look ver
 
 key.playermom.dialog=Are you alright darling?$...$You don't seem so...
 
-key.rt14.sk=Who are you ?|You shouldn't be here...
+key.rt14.sk=Who are you?|You shouldn't be here...
 
-key.rt14.albd=Bonjour, young person ! I'm Albert Fence !  I love guitare and the fences ! You like that too, right ?
+key.rt14.albd=Bonjour, young person! I'm Albert Fence!  I love guitar and the fences! You like that too, right?
 
-key.rt14.albdHouse=Albert's House | PS : Don't touch my fence !
+key.rt14.albdHouse=Albert's House|PS: Don't touch my fence!
 
-key.fe.fisherman=Fisherman : Oh ! You surprised me !|I love coming here to rest...$Everything is calm...|Everything is simple...$Although there are not many fish in this area !$...$Wait, I've never seen you here, isn't it?|Are you new ?
+key.fe.fisherman=Fisherman: Oh! You surprised me!|I love coming here to rest...$Everything is calm...|Everything is simple...$Although there are not many fish in this area!$...$Wait, I've never seen you here. Have I?|Are you new?
 
-key.inferm.dialog=Welcome !|Do you want to heal your OpMons ?$...$Wait. You don't have any OpMons.
+key.inferm.dialog=Welcome!|Do you want to heal your OpMons?$...$Wait. You don't have any OpMons.
 
-key.rt14.beta.pre=Hello ! I am Beta. I am the NPC allowing you to test new feature not fully implemented.|I can do an OpMon battle against you if you want.|Let's go !
-key.rt14.beta.post=Was it good ?|If you want to do it again relauch the game with M !
+key.rt14.beta.pre=Hello! I am Beta. I am the NPC allowing you to test new feature not fully implemented.|I can do an OpMon battle against you if you want.|Let's go!
+key.rt14.beta.post=Was it good?|If you want to do it again relauch the game with M!
 
 key.euvicity.desc=Welcome to EuviCity
 
@@ -92,8 +92,8 @@ key.battle.bag=Bag
 key.battle.run=Run
 key.battle.opmon=OpMons
 
-key.battle.dialog.move=~ use ~ !
-key.battle.dialog.miss=~ fails the move !
+key.battle.dialog.move=~ use ~!
+key.battle.dialog.miss=~ fails the move!
 key.battle.dialog.loosehp=~ looses ~ hp.
 
 key.battle.wait=What will you do?
@@ -119,113 +119,113 @@ key.battle.status.confused.move.success.2=manages to move!
 key.battle.status.confused.move.fail=~ is confused.
 key.battle.status.confused.hplost=In the confusion, ~ lost ~ hp.
 
-key.battle.status.afraid=~ is too afraid to move !
+key.battle.status.afraid=~ is too afraid to move!
 
-key.battle.effectiveness.none=But it failed !
+key.battle.effectiveness.none=But it failed!
 key.battle.effectiveness.almostnone=It's almost ineffective...
 key.battle.effectiveness.notvery=It's not very effective...
-key.battle.effectiveness.very=It's very effective !
-key.battle.effectiveness.super=It's super effective !
+key.battle.effectiveness.very=It's very effective!
+key.battle.effectiveness.super=It's super effective!
 
 # Attack
-key.battle.stat.6.-6=~'s attack reaches the bottom !
-key.battle.stat.6.-5=~'s attack falls super low !
-key.battle.stat.6.-4=~'s attack falls a lot !
-key.battle.stat.6.-3=~'s attack falls !
-key.battle.stat.6.-2=~'s attack is lowered a lot !
-key.battle.stat.6.-1=~'s attack is lowered !
-key.battle.stat.6.1=~'s attack increases !
-key.battle.stat.6.2=~'s attack increases a lot !
-key.battle.stat.6.3=~'s attack soared !
-key.battle.stat.6.4=~'s attack soared a lot !
-key.battle.stat.6.5=~'s attack increases super high !
-key.battle.stat.6.6=~'s attack reaches the top !
+key.battle.stat.6.-6=~'s attack reaches the bottom!
+key.battle.stat.6.-5=~'s attack falls super low!
+key.battle.stat.6.-4=~'s attack falls a lot!
+key.battle.stat.6.-3=~'s attack falls!
+key.battle.stat.6.-2=~'s attack is lowered a lot!
+key.battle.stat.6.-1=~'s attack is lowered!
+key.battle.stat.6.1=~'s attack increases!
+key.battle.stat.6.2=~'s attack increases a lot!
+key.battle.stat.6.3=~'s attack soared!
+key.battle.stat.6.4=~'s attack soared a lot!
+key.battle.stat.6.5=~'s attack increases super high!
+key.battle.stat.6.6=~'s attack reaches the top!
 
 # Defense
-key.battle.stat.1.-6=~'s defense reaches the bottom !
-key.battle.stat.1.-5=~'s defense falls super low !
-key.battle.stat.1.-4=~'s defense falls a lot !
-key.battle.stat.1.-3=~'s defense falls !
-key.battle.stat.1.-2=~'s defense is lowered a lot !
-key.battle.stat.1.-1=~'s defense is lowered !
-key.battle.stat.1.1=~'s defense increases !
-key.battle.stat.1.2=~'s defense increases a lot !
-key.battle.stat.1.3=~'s defense soared !
-key.battle.stat.1.4=~'s defense soared a lot !
-key.battle.stat.1.5=~'s defense increases super high !
-key.battle.stat.1.6=~'s defense reaches the top !
+key.battle.stat.1.-6=~'s defense reaches the bottom!
+key.battle.stat.1.-5=~'s defense falls super low!
+key.battle.stat.1.-4=~'s defense falls a lot!
+key.battle.stat.1.-3=~'s defense falls!
+key.battle.stat.1.-2=~'s defense is lowered a lot!
+key.battle.stat.1.-1=~'s defense is lowered!
+key.battle.stat.1.1=~'s defense increases!
+key.battle.stat.1.2=~'s defense increases a lot!
+key.battle.stat.1.3=~'s defense soared!
+key.battle.stat.1.4=~'s defense soared a lot!
+key.battle.stat.1.5=~'s defense increases super high!
+key.battle.stat.1.6=~'s defense reaches the top!
 
 # Special Attack
-key.battle.stat.2.-6=~'s special attack reaches the bottom !
-key.battle.stat.2.-5=~'s special attack falls super low !
-key.battle.stat.2.-4=~'s special attack falls a lot !
-key.battle.stat.2.-3=~'s special attack falls !
-key.battle.stat.2.-2=~'s special attack is lowered a lot !
-key.battle.stat.2.-1=~'s special attack is lowered !
-key.battle.stat.2.1=~'s special attack increases !
-key.battle.stat.2.2=~'s special attack increases a lot !
-key.battle.stat.2.3=~'s special attack soared !
-key.battle.stat.2.4=~'s special attack soared a lot !
-key.battle.stat.2.5=~'s special attack increases super high !
-key.battle.stat.2.6=~'s special attack reaches the top !
+key.battle.stat.2.-6=~'s special attack reaches the bottom!
+key.battle.stat.2.-5=~'s special attack falls super low!
+key.battle.stat.2.-4=~'s special attack falls a lot!
+key.battle.stat.2.-3=~'s special attack falls!
+key.battle.stat.2.-2=~'s special attack is lowered a lot!
+key.battle.stat.2.-1=~'s special attack is lowered!
+key.battle.stat.2.1=~'s special attack increases!
+key.battle.stat.2.2=~'s special attack increases a lot!
+key.battle.stat.2.3=~'s special attack soared!
+key.battle.stat.2.4=~'s special attack soared a lot!
+key.battle.stat.2.5=~'s special attack increases super high!
+key.battle.stat.2.6=~'s special attack reaches the top!
 
 # Special Defense
-key.battle.stat.3.-6=~'s special defense reaches the bottom !
-key.battle.stat.3.-5=~'s special defense falls super low !
-key.battle.stat.3.-4=~'s special defense falls a lot !
-key.battle.stat.3.-3=~'s special defense falls !
-key.battle.stat.3.-2=~'s special defense is lowered a lot !
-key.battle.stat.3.-1=~'s special defense is lowered !
-key.battle.stat.3.1=~'s special defense increases !
-key.battle.stat.3.2=~'s special defense increases a lot !
-key.battle.stat.3.3=~'s special defense soared !
-key.battle.stat.3.4=~'s special defense soared a lot !
-key.battle.stat.3.5=~'s special defense increases super high !
-key.battle.stat.3.6=~'s special defense reaches the top !
+key.battle.stat.3.-6=~'s special defense reaches the bottom!
+key.battle.stat.3.-5=~'s special defense falls super low!
+key.battle.stat.3.-4=~'s special defense falls a lot!
+key.battle.stat.3.-3=~'s special defense falls!
+key.battle.stat.3.-2=~'s special defense is lowered a lot!
+key.battle.stat.3.-1=~'s special defense is lowered!
+key.battle.stat.3.1=~'s special defense increases!
+key.battle.stat.3.2=~'s special defense increases a lot!
+key.battle.stat.3.3=~'s special defense soared!
+key.battle.stat.3.4=~'s special defense soared a lot!
+key.battle.stat.3.5=~'s special defense increases super high!
+key.battle.stat.3.6=~'s special defense reaches the top!
 
 # Speed
-key.battle.stat.4.-6=~'s speed reaches the bottom !
-key.battle.stat.4.-5=~'s speed falls super low !
-key.battle.stat.4.-4=~'s speed falls a lot !
-key.battle.stat.4.-3=~'s speed falls !
-key.battle.stat.4.-2=~'s speed is lowered a lot !
-key.battle.stat.4.-1=~'s speed is lowered !
-key.battle.stat.4.1=~'s speed increases !
-key.battle.stat.4.2=~'s speed increases a lot !
-key.battle.stat.4.3=~'s speed soared !
-key.battle.stat.4.4=~'s speed soared a lot !
-key.battle.stat.4.5=~'s speed increases super high !
-key.battle.stat.4.6=~'s speed reaches the top !
+key.battle.stat.4.-6=~'s speed reaches the bottom!
+key.battle.stat.4.-5=~'s speed falls super low!
+key.battle.stat.4.-4=~'s speed falls a lot!
+key.battle.stat.4.-3=~'s speed falls!
+key.battle.stat.4.-2=~'s speed is lowered a lot!
+key.battle.stat.4.-1=~'s speed is lowered!
+key.battle.stat.4.1=~'s speed increases!
+key.battle.stat.4.2=~'s speed increases a lot!
+key.battle.stat.4.3=~'s speed soared!
+key.battle.stat.4.4=~'s speed soared a lot!
+key.battle.stat.4.5=~'s speed increases super high!
+key.battle.stat.4.6=~'s speed reaches the top!
 
 # Evasion
-key.battle.stat.8.-6=~'s evasion reaches the bottom !
-key.battle.stat.8.-5=~'s evasion falls super low !
-key.battle.stat.8.-4=~'s evasion falls a lot !
-key.battle.stat.8.-3=~'s evasion falls !
-key.battle.stat.8.-2=~'s evasion is lowered a lot !
-key.battle.stat.8.-1=~'s evasion is lowered !
-key.battle.stat.8.1=~'s evasion increases !
-key.battle.stat.8.2=~'s evasion increases a lot !
-key.battle.stat.8.3=~'s evasion soared !
-key.battle.stat.8.4=~'s evasion soared a lot !
-key.battle.stat.8.5=~'s evasion increases super high !
-key.battle.stat.8.6=~'s evasion reaches the top !
+key.battle.stat.8.-6=~'s evasion reaches the bottom!
+key.battle.stat.8.-5=~'s evasion falls super low!
+key.battle.stat.8.-4=~'s evasion falls a lot!
+key.battle.stat.8.-3=~'s evasion falls!
+key.battle.stat.8.-2=~'s evasion is lowered a lot!
+key.battle.stat.8.-1=~'s evasion is lowered!
+key.battle.stat.8.1=~'s evasion increases!
+key.battle.stat.8.2=~'s evasion increases a lot!
+key.battle.stat.8.3=~'s evasion soared!
+key.battle.stat.8.4=~'s evasion soared a lot!
+key.battle.stat.8.5=~'s evasion increases super high!
+key.battle.stat.8.6=~'s evasion reaches the top!
 
 # Accuracy
-key.battle.stat.7.-6=~'s accuracy reaches the bottom !
-key.battle.stat.7.-5=~'s accuracy falls super low !
-key.battle.stat.7.-4=~'s accuracy falls a lot !
-key.battle.stat.7.-3=~'s accuracy falls !
-key.battle.stat.7.-2=~'s accuracy is lowered a lot !
-key.battle.stat.7.-1=~'s accuracy is lowered !
-key.battle.stat.7.1=~'s accuracy increases !
-key.battle.stat.7.2=~'s accuracy increases a lot !
-key.battle.stat.7.3=~'s accuracy soared !
-key.battle.stat.7.4=~'s accuracy soared a lot !
-key.battle.stat.7.5=~'s accuracy increases super high !
-key.battle.stat.7.6=~'s accuracy reaches the top !
+key.battle.stat.7.-6=~'s accuracy reaches the bottom!
+key.battle.stat.7.-5=~'s accuracy falls super low!
+key.battle.stat.7.-4=~'s accuracy falls a lot!
+key.battle.stat.7.-3=~'s accuracy falls!
+key.battle.stat.7.-2=~'s accuracy is lowered a lot!
+key.battle.stat.7.-1=~'s accuracy is lowered!
+key.battle.stat.7.1=~'s accuracy increases!
+key.battle.stat.7.2=~'s accuracy increases a lot!
+key.battle.stat.7.3=~'s accuracy soared!
+key.battle.stat.7.4=~'s accuracy soared a lot!
+key.battle.stat.7.5=~'s accuracy increases super high!
+key.battle.stat.7.6=~'s accuracy reaches the top!
 
-key.battle.victory=Congratulations ! ~ wins !
+key.battle.victory=Congratulations! ~ wins!
 key.battle.defeat=Too bad... ~ looses.
 
 key.opmon.name.0=MissingNo.
@@ -296,7 +296,7 @@ key.opmon.desc.11=WIP
 key.opmon.desc.12=WIP
 key.opmon.desc.13=WIP
 key.opmon.desc.14=WIP
-key.opmon.desc.15=Unbelievable ! He is able to jump, fly, hover, dig and even blow out! Too bad he is so small, weak, and can be confused with a pebble ...
+key.opmon.desc.15=Unbelievable! He is able to jump, fly, hover, dig and even blow out! Too bad he is so small, weak, and can be confused with a pebble...
 key.opmon.desc.16=WIP
 key.opmon.desc.17=WIP
 key.opmon.desc.18=WIP
@@ -340,8 +340,8 @@ key.moves.Growl.name=Growl
 
 key.items.hcandy.name=Healing Candy
 
-key.items.dialog.heal.fullHP=But ~'s HP are already full !
+key.items.dialog.heal.fullHP=But ~'s HP are already full!
 key.items.dialog.heal.healKO=But ~ is KO.
-key.items.dialog.heal.healHP=~ just recovered ~ HP !
+key.items.dialog.heal.healHP=~ just recovered ~ HP!
 
 end

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/dialogChange.ogg-edb17341d4d2beb225ce170c77598828.oggstr"
+
+[deps]
+
+source_file="res://OpMon-Data/Concept/Sounds/dialogChange.ogg"
+dest_files=[ "res://.import/dialogChange.ogg-edb17341d4d2beb225ce170c77598828.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

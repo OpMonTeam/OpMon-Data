@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/surprise.ogg-a9cef895d1007ce6df4082be064a4deb.oggstr"
+
+[deps]
+
+source_file="res://OpMon-Data/Concept/Musics/OPMon OST/surprise.ogg"
+dest_files=[ "res://.import/surprise.ogg-a9cef895d1007ce6df4082be064a4deb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

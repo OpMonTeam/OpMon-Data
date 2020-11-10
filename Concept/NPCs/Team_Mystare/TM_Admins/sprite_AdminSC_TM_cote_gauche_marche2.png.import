@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/sprite_AdminSC_TM_cote_gauche_marche2.png-2d420de568cbb55d41b9d88f920e2ca1.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://OpMon-Data/Concept/NPCs/Team_Mystare/TM_Admins/sprite_AdminSC_TM_cote_gauche_marche2.png"
+dest_files=[ "res://.import/sprite_AdminSC_TM_cote_gauche_marche2.png-2d420de568cbb55d41b9d88f920e2ca1.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

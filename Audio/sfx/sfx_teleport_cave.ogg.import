@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sfx_teleport_cave.ogg-400691b228644145c214bb94d964cc3f.oggstr"
+
+[deps]
+
+source_file="res://OpMon-Data/Audio/sfx/sfx_teleport_cave.ogg"
+dest_files=[ "res://.import/sfx_teleport_cave.ogg-400691b228644145c214bb94d964cc3f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

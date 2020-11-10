@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/error.ogg-758bed2235dd282baf257ce48e6fdb94.oggstr"
+
+[deps]
+
+source_file="res://OpMon-Data/Audio/music/error.ogg"
+dest_files=[ "res://.import/error.ogg-758bed2235dd282baf257ce48e6fdb94.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

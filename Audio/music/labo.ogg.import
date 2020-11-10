@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/labo.ogg-aac424746befa1ca03859a664db26609.oggstr"
+
+[deps]
+
+source_file="res://OpMon-Data/Audio/music/labo.ogg"
+dest_files=[ "res://.import/labo.ogg-aac424746befa1ca03859a664db26609.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

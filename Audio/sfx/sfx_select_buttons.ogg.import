@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sfx_select_buttons.ogg-455e130829cbc38393691987f33bf3c1.oggstr"
+
+[deps]
+
+source_file="res://OpMon-Data/Audio/sfx/sfx_select_buttons.ogg"
+dest_files=[ "res://.import/sfx_select_buttons.ogg-455e130829cbc38393691987f33bf3c1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

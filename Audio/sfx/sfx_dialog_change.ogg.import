@@ -11,5 +11,5 @@ dest_files=[ "res://.import/sfx_dialog_change.ogg-358a6c60d9d31085a46d7a5a637127
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

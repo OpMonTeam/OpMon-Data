@@ -11,5 +11,5 @@ dest_files=[ "res://.import/sfx_select_buttons.ogg-455e130829cbc38393691987f33bf
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

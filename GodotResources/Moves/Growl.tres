@@ -6,7 +6,8 @@
 [sub_resource type="Resource" id=1]
 script = ExtResource( 2 )
 stat = 0
-change = 1
+change = -1
+to_opponent = true
 
 [resource]
 script = ExtResource( 1 )

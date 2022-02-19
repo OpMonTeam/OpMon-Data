@@ -6,7 +6,7 @@
 
 [resource]
 script = ExtResource( 2 )
-name = "Carnapple"
+name = "OPNAME_CARNAPPLE"
 opdex_number = 11
 type_1 = 8
 type_2 = -1

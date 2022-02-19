@@ -4,7 +4,7 @@
 
 [resource]
 script = ExtResource( 1 )
-name = "Tackle"
+name = "MOVENAME_TACKLE"
 power = 40
 type = 9
 accuracy = 100

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/wildbattle.ogg-27385a9126d1f6dfcc13ba133d22f064.oggstr"
+
+[deps]
+
+source_file="res://OpMon-Data/Audio/music/wildbattle.ogg"
+dest_files=[ "res://.import/wildbattle.ogg-27385a9126d1f6dfcc13ba133d22f064.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

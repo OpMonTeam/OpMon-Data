@@ -6,7 +6,7 @@
 
 [resource]
 script = ExtResource( 1 )
-name = "Furnurus"
+name = "OPNAME_FURNURUS"
 opdex_number = 4
 type_1 = 6
 type_2 = -1

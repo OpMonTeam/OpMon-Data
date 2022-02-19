@@ -11,7 +11,7 @@ to_opponent = false
 
 [resource]
 script = ExtResource( 1 )
-name = "Harden"
+name = "MOVENAME_HARDEN"
 power = 0
 type = 9
 accuracy = 100

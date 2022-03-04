@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/kid.png-44b0f4e663125c96cb517b3f4c5f7ec3.stex"
+path="res://.import/kid.png-3bdc350f9c813cb1199d56dcb4986923.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://OpMon-Data/Sprites/chara/kid.png"
-dest_files=[ "res://.import/kid.png-44b0f4e663125c96cb517b3f4c5f7ec3.stex" ]
+source_file="res://Data/Sprites/chara/kid.png"
+dest_files=[ "res://.import/kid.png-3bdc350f9c813cb1199d56dcb4986923.stex" ]
 
 [params]
 

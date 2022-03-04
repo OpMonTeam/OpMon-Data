@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/beta.png-629c12eebe5d351e35568239f987153e.stex"
+path="res://.import/beta.png-7be64882351239d9ee2d75aa8996013c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://OpMon-Data/Sprites/chara/beta/beta.png"
-dest_files=[ "res://.import/beta.png-629c12eebe5d351e35568239f987153e.stex" ]
+source_file="res://Data/Sprites/chara/beta/beta.png"
+dest_files=[ "res://.import/beta.png-7be64882351239d9ee2d75aa8996013c.stex" ]
 
 [params]
 

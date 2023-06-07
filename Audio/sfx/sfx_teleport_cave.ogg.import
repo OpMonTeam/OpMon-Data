@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/sfx_teleport_cave.ogg-400691b228644145c214bb94d964cc3f.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bvim5t65in3u1"
+path="res://.godot/imported/sfx_teleport_cave.ogg-400691b228644145c214bb94d964cc3f.oggvorbisstr"
 
 [deps]
 
 source_file="res://OpMon-Data/Audio/sfx/sfx_teleport_cave.ogg"
-dest_files=[ "res://.import/sfx_teleport_cave.ogg-400691b228644145c214bb94d964cc3f.oggstr" ]
+dest_files=["res://.godot/imported/sfx_teleport_cave.ogg-400691b228644145c214bb94d964cc3f.oggvorbisstr"]
 
 [params]
 
 loop=false
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

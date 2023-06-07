@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/sfx_hit.ogg-a6a96c8ac128f350296f2a0b89cd3cee.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dddg2ef57tx2r"
+path="res://.godot/imported/sfx_hit.ogg-a6a96c8ac128f350296f2a0b89cd3cee.oggvorbisstr"
 
 [deps]
 
 source_file="res://OpMon-Data/Audio/sfx/sfx_hit.ogg"
-dest_files=[ "res://.import/sfx_hit.ogg-a6a96c8ac128f350296f2a0b89cd3cee.oggstr" ]
+dest_files=["res://.godot/imported/sfx_hit.ogg-a6a96c8ac128f350296f2a0b89cd3cee.oggvorbisstr"]
 
 [params]
 
 loop=false
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

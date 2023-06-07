@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/title.ogg-9b4e59e66cc0a2f5940261f579e4d8b0.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b6w18xtq8l0t7"
+path="res://.godot/imported/title.ogg-9b4e59e66cc0a2f5940261f579e4d8b0.oggvorbisstr"
 
 [deps]
 
 source_file="res://OpMon-Data/Audio/music/title.ogg"
-dest_files=[ "res://.import/title.ogg-9b4e59e66cc0a2f5940261f579e4d8b0.oggstr" ]
+dest_files=["res://.godot/imported/title.ogg-9b4e59e66cc0a2f5940261f579e4d8b0.oggvorbisstr"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

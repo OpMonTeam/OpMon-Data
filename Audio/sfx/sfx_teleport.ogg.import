@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/sfx_teleport.ogg-79095f0aea040d4934a9d02f6ba22956.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cpjrnn2onsgj5"
+path="res://.godot/imported/sfx_teleport.ogg-79095f0aea040d4934a9d02f6ba22956.oggvorbisstr"
 
 [deps]
 
 source_file="res://OpMon-Data/Audio/sfx/sfx_teleport.ogg"
-dest_files=[ "res://.import/sfx_teleport.ogg-79095f0aea040d4934a9d02f6ba22956.oggstr" ]
+dest_files=["res://.godot/imported/sfx_teleport.ogg-79095f0aea040d4934a9d02f6ba22956.oggvorbisstr"]
 
 [params]
 
 loop=false
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
